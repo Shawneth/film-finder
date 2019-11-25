@@ -1,0 +1,12 @@
+{
+  "compilerOptions":  {
+    "module":"commonjs",
+    "target":"es5",
+    "jsx":"react",
+    "downlevelIteration":true,
+    "strict":true,
+    "noImplicitAny":false,
+    "alwaysStrict":true,
+    "esModuleInterop":true
+  }
+}
